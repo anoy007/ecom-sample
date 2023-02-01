@@ -1,0 +1,44 @@
+.item {
+  background-color: gainsboro;
+  padding: 4px;
+  width: auto;
+  height: auto;
+  margin: 4px;
+  cursor: pointer;
+}
+
+.item a{
+  color: rgb(57, 62, 49);
+  text-decoration: none;
+}
+
+.item-details {
+  padding: 20px;
+  margin: 0px;
+}
+
+.item-details img {
+  height: 200px;
+  width: 200px;
+}
+.item-details img:hover {
+  height: 220px;
+  width: 220px;
+  transition: 1s ease-in-out;
+}
+
+.button {
+    
+        width: 76px;
+        height: 24px;
+        background-color: blueviolet;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        cursor: pointer;
+      
+}
+
+
